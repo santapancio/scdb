@@ -1,0 +1,33 @@
+responsabilidades:
+    - "mantener el mínimo de decencia en el servidor de discord comunitario"
+    - "moderación a discreción -> no se requiere justificación legal para tomar acciones de moderación - si se lo ve adecuado, se tiene permitido hacerlo haciéndose responsable de la decisión que tomó. No toleraremos el abuso de autoridad"
+    - "no usar sus privilegios de moderación que puedan ofender, molestar o irritar a otros sin justificación, ni siquiera a modo de chiste (es por algo)"
+
+detalle: >
+  - no se requiere un compromiso de tiempo o vigilancia constante si no se desea, pero al estar activo en el servidor y presenciar directamente algo que requiere moderación, se deben tomar las medidas de moderación correspondientes y resolver la cuestión permanentemente de ser posible
+  - esto está pensado como un rol para dar a varias personas que van a estar ocupadas como todos nosotros, de manera que siempre haya alguien para moderar al nivel más básico, y por eso tiene pocos privilegios y no es requerido que se haga activamente sino más bien pasivamente
+  - la moderación se hace con criterio propio y de buena fe; no se espera que consultes antes de tomar medidas de moderación ordinarias
+  - las medidas deben ser proporcionales a lo necesario para mantener el orden - ni más, ni menos
+  - yo también estoy asignado a esta delegación por lo que te voy a ayudar, y probablemente vayamos a meter a algunos más
+
+personas-asignadas:
+  - "Arqui_Alpaka"
+  - "roviet sussia"
+
+subdelegaciones:
+  - ""
+
+# responsabilidades:
+# Enumera las responsabilidades de esta delegación
+#
+# detalle:
+# Cualquier cosa relevante, literalmente cualquiera
+#
+# personas-asignadas:
+# Enumera a las personas asignadas a esta delegación
+# La primera persona de esta lista es la persona primaria
+#
+# subdelegaciones:
+# Enumera las subdelegaciones que pertenecen a esta delegación. Cada item debe contener referencia a la subdelegación en cuestión
+#
+# Estos renglones de comentario (que empiezan con "#") no son necesarios, pero recomendamos que queden, para poder guiarse
