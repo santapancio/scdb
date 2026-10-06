@@ -1,8 +1,8 @@
-detalle: "detalles aaaaaaaaaa"
-
 responsabilidades:
   - "responsabilidad ejemplo 1"
   - "responsabilidad 2"
+
+detalle: "detalles aaaaaaaaaa"
 
 personas-asignadas:
   - "persona 1"
@@ -12,11 +12,11 @@ subdelegaciones:
   - "comentario de ejemplo: [[delegacion 1]]"
   - "[[delegacion 2]]"
 
-# detalle:
-# Cualquier cosa relevante, literalmente cualquiera
-#
 # responsabilidades:
 # Enumera las responsabilidades de esta delegación
+#
+# detalle:
+# Cualquier cosa relevante, literalmente cualquiera
 #
 # personas-asignadas:
 # Enumera a las personas asignadas a esta delegación
