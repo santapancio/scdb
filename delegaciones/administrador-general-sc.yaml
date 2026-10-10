@@ -12,11 +12,11 @@ especificaciones:
 detalle: "la responsabilidad prima - engloba las responsabilidades de administrar SC en su totalidad. todas las otras delegaciones nacen de ésta"
 
 personas-asignadas:
-  - "[[trabajo_admin_santa]]"
+  - "[[trabajo-admin-santa]]"
 
 subdelegaciones:
-  - "[[moderador_discord]]"
-  - "[[encargado_lista]]"
+  - "[[moderador-discord]]"
+  - "[[encargado-lista]]"
 
 # responsabilidades:
 # Enumera las responsabilidades de esta delegación
