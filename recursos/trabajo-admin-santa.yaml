@@ -1,6 +1,6 @@
 detalle: >
   trabajo y conocimiento por parte de Santa
-  comprometido a desempeñar la labor de administrador general de SC [[ADMINISTRADOR_GENERAL_SC]]
+  comprometido a desempeñar la labor de administrador general de SC [[administrador-general-sc]]
 
 estado: "condicional"
 
@@ -8,7 +8,7 @@ propiedad: "no aplica"
 
 control: "Santa"
 
-operacion-asignacion: "[[ADMINISTRADOR_GENERAL_SC]]"
+operacion-asignacion: "[[administrador-general-sc]]"
 
 etiquetas:
   - "trabajo"
