@@ -1,20 +1,16 @@
 responsabilidades:
-  - "responsabilidad ejemplo 1"
-  - "responsabilidad 2"
+  - ""
 
 especificaciones:
-  - "especificación 1"
-  - "especificación 2"
+  - ""
 
-detalle: "detalles aaaaaaaaaa"
+detalle: ""
 
 personas-asignadas:
-  - "persona 1"
-  - "persona 2"
+  - "[[]]"
 
 subdelegaciones:
-  - "comentario de ejemplo: [[delegacion 1]]"
-  - "[[delegacion 2]]"
+  - "[[]]"
 
 # responsabilidades:
 # Enumera las responsabilidades de esta delegación
