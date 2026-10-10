@@ -26,7 +26,7 @@
         - requisitos
             - deben ser nombres legibles y entendibles
             - se escriben en minúscula y sin espacios
-            - usan guiones para separar palabras
+            - usan guiones bajos para separar palabras
         - ejemplo: "servidor-principal.yaml"
     - no puede haber dos elementos con el mismo ID en toda la base de datos entera
 
