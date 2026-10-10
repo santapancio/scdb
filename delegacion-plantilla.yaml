@@ -2,6 +2,10 @@ responsabilidades:
   - "responsabilidad ejemplo 1"
   - "responsabilidad 2"
 
+especificaciones:
+  - "especificación 1"
+  - "especificación 2"
+
 detalle: "detalles aaaaaaaaaa"
 
 personas-asignadas:
@@ -14,6 +18,9 @@ subdelegaciones:
 
 # responsabilidades:
 # Enumera las responsabilidades de esta delegación
+#
+# especificaciones:
+# Instrucciones, métodos, principios y recomendaciones sobre cómo llevar a cabo las responsabilidades
 #
 # detalle:
 # Cualquier cosa relevante, literalmente cualquiera
