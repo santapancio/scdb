@@ -1,0 +1,53 @@
+detalle: >
+  lista de personas que se han involucrado en la historia de SC en algún punto
+  acceso limitado
+  sólo para propósitos de moderación
+  recolecta apodos conocidos, IDs de steam e IDs de discord, origen y algunas relaciones relevantes, como afiliación a un grupo
+  mantenida por [[encargado_lista]]
+
+estado: "completado: operando"
+
+etiquetas:
+  - "información"
+
+sub-iniciativas:
+  - "[[]]"
+
+# detalle:
+# Cualquier cosa relevante, literalmente cualquiera
+#
+# (FORMATO ESTRICTO) estado:
+# Describe el estado actual de la iniciativa
+# Lista de estados posibles
+#     - propuesto (lo pensamos y lo queremos hacer, pero todavía no sabemos si lo vamos a hacer)
+#     - lista de espera (lo vamos a hacer próximamente)
+#     - en desarrollo
+#     - pausado
+#     - abandonado (no se completó y no se está completando)
+#     - completado: operando
+#     - completado: no operando
+#     - completado: descontinuado (se completó y operó, pero ya no lo vamos a operar)
+#     - completado (para cosas que se hacen una vez, por ejemplo)
+#     - no aplica (de alguna manera, ni idea)
+# 
+#
+# (FORMATO ESTRICTO) etiquetas:
+# Describen la naturaleza de la iniciativa. No necesitan muchísima precisión, son para hacer más fácil la administración
+# Lista de etiquetas
+#        - software
+#        - producto físico (incluye hardware informático)
+#        - servicio
+#        - infraestructura
+#        - investigación
+#        - información
+#        - contenido
+#        - actividad
+#        - trabajo creativo
+#        - inversión
+#        - operación conjunta (dirigido por múltiples personas / entidades, SC participa)
+#        - otro: (especificar)
+#
+# sub-iniciativas:
+# Enumera las sub-iniciativas que pertenecen a esta iniciativa. Cada item debe contener referencia a la sub-iniciativa en cuestión
+#
+# Estos renglones de comentario (que empiezan con "#") no son necesarios, pero recomendamos que queden, para poder guiarse
