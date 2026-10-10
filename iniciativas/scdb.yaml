@@ -1,9 +1,10 @@
 detalle: "Base de datos de SC. Pensada para formalizar y facilitar la administración de la organización"
 
-estado: "completado: no operando"
+estado: "completado: operando"
 
 etiquetas:
   - "información"
+  - "infraestructura"
 
 sub-iniciativas:
   - ""
