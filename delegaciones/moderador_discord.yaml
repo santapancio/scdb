@@ -9,6 +9,7 @@ especificaciones:
   - "las medidas deben ser proporcionales a lo necesario para mantener el orden - ni más, ni menos"
 
 detalle: >
+  moderador para [[servidor-discord-comunitario]]
   esto está pensado como un rol para dar a varias personas que van a estar ocupadas como todos, de manera que siempre haya alguien para moderar al nivel más básico, y por eso tiene pocos privilegios y no es requerido que se haga activamente sino más bien pasivamente
   - privilegios
     - rol de moderador en servidor de discord ("M")
