@@ -18,6 +18,9 @@
 - las delegaciones pueden organizarse libremente dentro de su territorio mientras obedezcan la autoridad final y lleven a cabo sus responsabilidades
     - esto incluye crear, modificar, eliminar y reorganizar delegaciones subordinadas y sus personas asignadas
     - también significa que la libertad de cada delegación puede ser decidida por una autoridad final, ya que tiene la capacidad de decidir sobre todo
+        - es decir, no siempre una delegación va a ser totalmente libre, por decisión superior
+        - además, el trabajo de asignar a alguien a una delegación cuenta como un recurso del sistema de recursos
+            - esto quiere decir que el poder asignar, reordenar y liberar el trabajo de las personas depende de la interacción de una delegación con el sistema de recursos
 
 - las delegaciones no necesitan corresponder con otros sistemas
     - una delegación puede administrar varias iniciativas
