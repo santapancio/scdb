@@ -1,14 +1,12 @@
-detalle: "detalles aaaaaaaaaaaaaaaaa"
+detalle: ""
 
-estado: "propuesto"
+estado: ""
 
 etiquetas:
-  - "software"
-  - "servicio"
+  - ""
 
 sub-iniciativas:
-  - "comentario de ejemplo: [[sub-iniciativa 1]]"
-  - "[[sub-iniciativa 2]]"
+  - "[[]]"
 
 # detalle:
 # Cualquier cosa relevante, literalmente cualquiera
