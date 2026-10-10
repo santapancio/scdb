@@ -1,0 +1,37 @@
+responsabilidades:
+  - "mantener y decidir sobre las operaciones de la organización"
+  - "mantener la soberanía de SC"
+  - "establecer la dirección general de la organización"
+  - "tomar decisiones mayores"
+
+especificaciones:
+  - "adherir a la filosofía de la organización"
+  - "mientras sea viable, delegar las responsabilidades para mantener la continuidad y la capacidad operativa de SC"
+  - "no inventar restricciones, obligaciones o autoridad que no sean necesarias para cumplir las responsabilidades de la organización"
+
+detalle: "la responsabilidad prima - engloba las responsabilidades de administrar SC en su totalidad. todas las otras delegaciones nacen de ésta"
+
+personas-asignadas:
+  - "Santa"
+
+subdelegaciones:
+  - "[[moderador_discord]]"
+  - "[[encargado_lista]]"
+
+# responsabilidades:
+# Enumera las responsabilidades de esta delegación
+#
+# especificaciones:
+# Instrucciones, métodos, principios y recomendaciones sobre cómo llevar a cabo las responsabilidades
+#
+# detalle:
+# Cualquier cosa relevante, literalmente cualquiera
+#
+# personas-asignadas:
+# Enumera a las personas asignadas a esta delegación
+# La primera persona de esta lista es la persona primaria
+#
+# subdelegaciones:
+# Enumera las subdelegaciones que pertenecen a esta delegación. Cada item debe contener referencia a la subdelegación en cuestión
+#
+# Estos renglones de comentario (que empiezan con "#") no son necesarios, pero recomendamos que queden, para poder guiarse
