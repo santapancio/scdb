@@ -6,7 +6,7 @@ propiedad: "no aplica"
 
 control: "Arqui_Alpaka"
 
-operacion-asignacion: "[[encargado_lista]]"
+operacion-asignacion: "[[encargado-lista]]"
 
 etiquetas:
   - "trabajo"
