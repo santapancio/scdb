@@ -9,6 +9,9 @@ detalle: >
   [[la_lista]]
   probablemente sólo se necesita una persona por ahora
   rudimentario, pero suficiente
+  - privilegios
+    - #adm en [[servidor-discord-comunitario]]
+    - acceso a la lista en el repo privado de github
 
 personas-asignadas:
   - "Arqui_Alpaka"
