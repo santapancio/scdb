@@ -1,17 +1,15 @@
-detalle: "condiciones si las hay, plan de respaldo, razón del estado del recurso, lo que sea"
+detalle: ""
 
-estado: "disponible"
+estado: ""
 
-propiedad: "SC"
+propiedad: ""
 
-control: "[[persona]] o lo que sea"
+control: ""
 
-operacion-asignacion: "[[delegación]] o lo que sea"
+operacion-asignacion: "[[]]"
 
 etiquetas:
-  - "infraestructura"
-  - "acceso"
-  - "producto físico"
+  - ""
 
 # detalle:
 # Cualquier cosa relevante, literalmente cualquiera
