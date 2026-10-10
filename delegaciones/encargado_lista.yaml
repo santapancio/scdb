@@ -1,0 +1,34 @@
+responsabilidades:
+  - "actualizar la lista de personas a medida que entran"
+  - "mantener actualizados los datos de la lista a lo largo del tiempo"
+
+especificaciones:
+  - "respetar la privacidad de las personas. tener en cuenta que esto es sólo con propósitos de moderación - cualquier dato que no sea relevante a ese propósito está fuera del ámbito"
+
+detalle: >
+  probablemente sólo se necesita una persona por ahora
+  rudimentario, pero suficiente
+
+personas-asignadas:
+  - "Arqui_Alpaka"
+
+subdelegaciones:
+  - ""
+
+# responsabilidades:
+# Enumera las responsabilidades de esta delegación
+#
+# especificaciones:
+# Instrucciones, métodos, principios y recomendaciones sobre cómo llevar a cabo las responsabilidades
+#
+# detalle:
+# Cualquier cosa relevante, literalmente cualquiera
+#
+# personas-asignadas:
+# Enumera a las personas asignadas a esta delegación
+# La primera persona de esta lista es la persona primaria
+#
+# subdelegaciones:
+# Enumera las subdelegaciones que pertenecen a esta delegación. Cada item debe contener referencia a la subdelegación en cuestión
+#
+# Estos renglones de comentario (que empiezan con "#") no son necesarios, pero recomendamos que queden, para poder guiarse
