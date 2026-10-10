@@ -12,7 +12,7 @@ especificaciones:
 detalle: "la responsabilidad prima - engloba las responsabilidades de administrar SC en su totalidad. todas las otras delegaciones nacen de ésta"
 
 personas-asignadas:
-  - "Santa"
+  - "[[trabajo_admin_santa]]"
 
 subdelegaciones:
   - "[[moderador_discord]]"
