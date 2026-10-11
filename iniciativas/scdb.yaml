@@ -1,4 +1,8 @@
-detalle: "Base de datos de SC. Pensada para formalizar y facilitar la administración de la organización"
+detalle: >
+  base de datos de SC
+  pensada para formalizar y facilitar la administración de la organización
+  actualmente bajo [[administrador-general-sc]] únicamente
+  dividida en subsistemas
 
 estado: "completado: operando"
 
