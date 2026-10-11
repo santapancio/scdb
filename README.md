@@ -36,13 +36,12 @@
         - en minúscula y sin espacios (usar "-")
         - ejemplo: "servidor-principal.yaml"
     - no puede haber dos elementos con el mismo ID en toda la base de datos entera
-
 - propiedades del contenido de los elementos
     - la sintaxis YAML debe ser correcta
     - cada sistema tiene su propio formato
         - la plantilla explica qué significa cada campo (por ej. "detalle") y qué corresponde poner en él, incluyendo su formato
         - no se deberían agregar o restar campos en ningún caso
-        - la mayoría de los campos pueden estar vacíos y su contenido puede ser cualquier cosa mientras se respete la plantilla
+        - el contenido de la mayoría de los campos puede ser cualquier cosa mientras se respete la plantilla, incluyendo el tipo de dato que indica
     - la mayoría de los campos pueden estar vacíos
         - dejar un campo vacío es preferible a introducir información inventada. la información especulativa es aceptable, pero debe entenderse que es tal
     - referencias
@@ -55,5 +54,4 @@
         - las referencias deben apuntar a elementos existentes
         - cuando se cambia un ID, deben actualizarse las referencias que apuntan al ID anterior
         - las referencias deberían ser bidireccionales
-
 - el anidado de los elementos no está ligado a u obligado a seguir el de los directorios de SCDB, y puede hacerse como se desee
