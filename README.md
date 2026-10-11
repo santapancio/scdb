@@ -40,7 +40,7 @@
     - la sintaxis YAML debe ser correcta
     - cada sistema tiene su propio formato
         - la plantilla explica qué significa cada campo (por ej. "detalle") y qué corresponde poner en él, incluyendo su formato
-        - no se deberían agregar o restar campos en ningún caso
+        - no se deberían agregar o restar campos a menos que las plantillas cambien
         - el contenido de la mayoría de los campos puede ser cualquier cosa mientras se respete la plantilla, incluyendo el tipo de dato que indica
     - la mayoría de los campos pueden estar vacíos
         - dejar un campo vacío es preferible a introducir información inventada. la información especulativa es aceptable, pero debe entenderse que es tal
