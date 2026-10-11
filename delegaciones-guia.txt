@@ -4,7 +4,7 @@
     - sin embargo, una subdelegación nunca debe extenderse fuera de su ámbito
     - una delegación puede tener varias subdelegaciones, pero sólo puede pertenecer a una
 
-- las personas cuyo recurso de trabajo es asignado a una delegación tienen autoridad final (derecho de imponer su decisión en cualquier parte) sobre todo aquello que corresponde y necesita a su ámbito, incluyendo sus subdelegaciones
+- las personas cuyo recurso de trabajo es asignado a una delegación tienen autoridad final (derecho de imponer su decisión en cualquier parte) sobre la misma y su ámbito de responsabilidad, incluyendo sus subdelegaciones
     - se supone que siempre haya alguien con autoridad final en cualquier caso de conflicto
 
 - cada delegación puede tener uno o más recursos de trabajo (que figuran en el sistema de recursos) asignados. sin embargo, sólo puede haber uno asignado como primario
