@@ -34,7 +34,7 @@ etiquetas:
 #
 # control: "texto ejemplo"
 #----------------------------------------------------------------------------------------------------------------------------operacion-asignacion
-# El contenido describe quién decide qué ocurre con este recurso
+# El contenido describe quién o qué decide qué ocurre con este recurso, o cuál es el uso que se le está dando en caso de no haberlo
 # Este campo no establece autoridad sobre un recurso por su cuenta - toda autoridad es definida por el sistema de delegaciones, que decide cómo la autoridad se relaciona con este campo
 # Se suele [[referenciar]] en este campo
 #
