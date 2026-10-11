@@ -1,12 +1,13 @@
 responsabilidades:
   - "mantener el mínimo de decencia en el servidor de discord comunitario"
-  - "moderación a discreción -> no se requiere justificación legal para tomar acciones de moderación - si se lo ve adecuado, se tiene permitido hacerlo haciéndose responsable de la decisión que tomó. No toleraremos el abuso de autoridad"
-  - "no usar sus privilegios de moderación que puedan ofender, molestar o irritar a otros sin justificación, ni siquiera a modo de chiste (es por algo)"
+  - "prevenir y mitigar raideos, grifeo, contenido inapropiado, suplantación de identidad, estafas, hacks, etc"
 
 especificaciones:
+  - "moderación a discreción -> no se requiere justificación legal para tomar acciones de moderación - si se lo ve adecuado, se tiene permitido hacerlo haciéndose responsable de la decisión que tomó. No toleraremos el abuso de autoridad"
   - "no se requiere un compromiso de tiempo o vigilancia constante si no se desea, pero al estar activo en el servidor y presenciar directamente algo que requiere moderación, se deben tomar las medidas de moderación correspondientes y resolver la cuestión permanentemente de ser posible"
   - "la moderación se hace con criterio propio y de buena fe; no se espera que consultes antes de tomar medidas de moderación ordinarias"
   - "las medidas deben ser proporcionales a lo necesario para mantener el orden - ni más, ni menos"
+  - "no usar sus privilegios de moderación que puedan ofender, molestar o irritar a otros sin justificación, ni siquiera a modo de chiste (es por algo)"
 
 detalle: >
   moderador para [[servidor-discord]]
@@ -17,6 +18,15 @@ detalle: >
       - acceso a #mod
 
 trabajo-asignado:
-  - "[[trabajo-moderadores-discord]]"
+  - "[[trabajo-moderador-arqui]]"
+  - "[[trabajo-moderador-cosmo]]"
+  - "[[trabajo-moderador-joker]]"
+  - "[[trabajo-moderador-osterman]]"
+  - "[[trabajo-moderador-rachelll]]"
+  - "[[trabajo-moderador-rebecca.yaml]]"
+  - "[[trabajo-moderador-rovietsussia.yaml]]"
+  - "[[trabajo-moderador-santa.yaml]]"
+  - "[[trabajo-moderador-yuki.yaml]]"
+  - "[[trabajo-moderador-zack.yaml]]"
 
 subdelegaciones:
