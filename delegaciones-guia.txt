@@ -1,47 +1,32 @@
-- delegación = responsabilidad = autoridad (en cualquier parte de esta guía estas palabras son intercambiables)
-    - ser otorgado una delegación significa ser DELEGADO a llevar a cabo RESPONSABILIDADES y poseer el derecho a la AUTORIDAD necesaria para hacerlo
+- ser otorgado una delegación significa ser delegado a llevar a cabo responsabilidades y poseer el derecho a la autoridad necesaria para hacerlo
 
-- delegar consiste en otorgar una parte de un conjunto de responsabilidades a otra persona que pueda encargarse
-    - cualquier delegación puede crear subdelegaciones para dividir sus responsabilidades, formando una estructura anidada
-        - una subdelegación nunca puede extender la delegación que la contiene
+- cualquier delegación puede tener subdelegaciones, formando una estructura anidada
+    - sin embargo, una subdelegación nunca debe extenderse fuera de su ámbito
+    - una delegación puede tener varias subdelegaciones, pero sólo puede pertenecer a una
 
-- las personas asignadas a una delegación tienen autoridad final sobre todo aquello que corresponde a su ámbito, incluyendo sus subdelegaciones
-    - "autoridad final" significa que puede imponer su decisión sobre cualquier cosa con libertad
+- las personas asignadas a una delegación tienen autoridad final (derecho de imponer su decisión en cualquier parte) sobre todo aquello que corresponde a su ámbito, incluyendo sus subdelegaciones
 
-- cada delegación puede tener una o más personas asignadas
-    - sin embargo, sólo puede haber una persona asignada como persona primaria
-        - todos los asignados tienen autoridad final sobre la delegación, sólo que la persona primaria tiene autoridad final sobre las personas secundarias
+- cada delegación puede tener uno o más recursos de trabajo (que figuran en el sistema de recursos) asignados. sin embargo, sólo puede haber uno asignado como primario
+    - todos los recursos de trabajo asignados tienen autoridad final sobre la delegación, pero además el primario tiene autoridad final sobre los secundarios
 
-- una persona puede estar asignada a varias delegaciones
+- un recurso de trabajo puede estar asignado a varias delegaciones
     - si una persona está en varias delegaciones y se contiene a sí mismo en ellas, las responsabilidades de todas formas deben mantenerse separadas al actuar
 
-- las delegaciones pueden organizarse libremente dentro de su territorio mientras obedezcan la autoridad final y lleven a cabo sus responsabilidades
-    - esto incluye crear, modificar, eliminar y reorganizar delegaciones subordinadas y sus personas asignadas
-    - también significa que la libertad de cada delegación puede ser decidida por una autoridad final, ya que tiene la capacidad de decidir sobre todo
-        - es decir, no siempre una delegación va a ser totalmente libre, por decisión superior
-        - además, el trabajo de asignar a alguien a una delegación cuenta como un recurso del sistema de recursos
-            - esto quiere decir que el poder asignar, reordenar y liberar el trabajo de las personas depende de la interacción de una delegación con el sistema de recursos
+- las delegaciones pueden organizarse libremente dentro de su ámbito
+    - esto incluye crear, modificar, eliminar y reorganizar delegaciones subordinadas y sus recursos de trabajo asignados
+    - esta libertad de cada delegación puede ser decidida por una autoridad final superior
 
 - las delegaciones no necesitan corresponder con otros sistemas
     - una delegación puede administrar varias iniciativas
     - una iniciativa puede involucrar varias delegaciones
     - varias delegaciones pueden utilizar el mismo recurso
-    - estas relaciones se establecen mediante referencias, no mediante la estructura de delegaciones
+    - estas relaciones se registran mediante referencias en SCDB
 
-- una delegación sin persona asignada implica que esas responsabilidades no están siendo llevadas a cabo
-    - la ausencia de una delegación para algo implica que ese algo está siendo llevado a cabo por la delegación donde pertenecería
+- una delegación sin un recurso de trabajo asignado implica que no está siendo llevada a cabo
 
-- cuando una delegación deja de existir, sus responsabilidades deben resolverse
-    - pueden ser absorbidas, transferidas, divididas, eliminadas, lo que sea
+- las delegaciones no necesariamente son permanentes; algunos procesos o trabajos son temporales
 
-- las delegaciones no necesariamente deben ser permanentes; algunos procesos o trabajos son temporales
+- las cuestiones que excedan a una delegación deberían elevarse a la delegación inmediatamente superior a ella
+    - dudas, conflictos, decisiones que exceden las responsabilidades, excepciones, etc
 
-- las cuestiones que excedan a una delegación deberían elevarse a la delegación (autoridad final) inmediatamente superior a ella
-    - dudas, conflictos, decisiones que exceden las responsabilidades, excepciones, cualquier cosa que haya duda de decidir
-    - si una cuestión afecta a varias delegaciones subordinadas y no está claro cuál debe resolverla (o en otras excepciones), se deja a criterio propio la delegación más sensata a la que elevar
-    - no se debería inventar autoridad para resolver algo simplemente porque no esté contemplado, puramente para tener respeto por las áreas de los demás
-
-- el único objetivo de una delegación es cumplir sus responsabilidades. esto también implica, de ser necesario:
-    - mantener el funcionamiento de sus subdelegaciones
-    - resolver problemas y excepciones que superen a sus subdelegaciones
-    - encargarse de las áreas de las responsabilidades que no hayan sido delegadas
+- el único objetivo de una delegación es cumplir sus responsabilidades. esto también implica mantener el funcionamiento de sus subdelegaciones y resolver cuestiones que las mismas le eleven
