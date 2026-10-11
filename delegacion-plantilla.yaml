@@ -43,4 +43,4 @@ subdelegaciones:
 #----------------------------------------------------------------------------------------------------------------------------etc
 # Si un campo está vacío, debe dejarse como "nombre-de-campo:" y nada más, como se ve en esta plantilla
 # El resto de la información sobre el funcionamiento de las delegaciones en SCDB se encuentra en su respectiva guía
-# Estos renglones de comentario (que empiezan con "#") no son necesarios, pero recomendamos que queden, para poder guiarse
+# Estos renglones de comentario (que empiezan con "#") recomendamos eliminarlos del contenido de los elementos
