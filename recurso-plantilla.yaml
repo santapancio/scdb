@@ -19,7 +19,7 @@ etiquetas:
 # El estado actual del recurso
 # FORMATO ESTRICTO - sólo puede tener un (singular) estado posible de los siguientes:
 # "disponible"
-# "ocupado" (cuando está siendo usado y no puede usarse en simultáneo para otra cosa)
+# "asignado" (cuando está siendo usado y no puede usarse en simultáneo para otra cosa)
 # "no disponible"
 # "condicional"
 # "no aplica"
