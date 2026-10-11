@@ -1,17 +1,6 @@
 - el sistema de recursos registra qué recursos existen, cuál es su situación y cómo están siendo utilizados o puestos a disposición de la organización
 
-- un recurso es algo de lo que la organización dispone o que puede tener disponible para sus actividades
-    - un recurso puede tener distintos estados, o incluso estar sujeto a condiciones
-        - estas condiciones pueden ser cualquier cosa
-    - un recurso puede pertenecer a SC, a otra persona u organización, ser compartido o no tener propietario aplicable
-
-- los recursos pueden cambiar de estado a lo largo del tiempo
-    - pueden pasar a estar disponibles o no disponibles
-    - pueden cambiar de propietario o de controlador
-    - pueden ser asignados a una operación diferente
-    - pueden dejar de existir
-    - pueden ser transferidos, consumidos, modificados, reemplazados o incorporados a otros recursos
-    - estos cambios deben reflejarse en el sistema cuando sean relevantes
+- un recurso puede tener distintos estados, o incluso estar sujeto a condiciones de cualquier tipo
 
 - el sistema de recursos no determina por sí mismo la autoridad de las personas sobre los recursos; eso corresponde al sistema de delegaciones, al igual que toda autoridad
 
@@ -19,30 +8,13 @@
 
 - un recurso no necesariamente es permanente
     - puede ser temporal
-    - puede existir únicamente para una iniciativa o actividad concreta
+    - puede existir únicamente para una iniciativa concreta
+    - puede ser consumido
+    - etc
 
-- contribución y autoridad están separadas
-    - "yo puse el servidor así que decido cómo va a ser la iniciativa que lo usa a pesar de no formar parte de ella" no es aceptable, pero sí "ofrezco un servidor si puedo liderar o decidir X sobre la iniciativa"; la condición forma parte de la oferta y la organización puede aceptarla o rechazarla
-
-- si una contribución queda sin una utilización clara o deja de poder utilizarse según sus condiciones, se debe recurrir a las condiciones acordadas para resolver la situación
-    - puede existir un plan de respaldo establecido previamente
-    - si no existe, se puede consultar a quien contribuyó
-    - si no es posible contactarlo durante un período considerable, la resolución puede quedar en manos de quien corresponda administrar el recurso
-    - esto puede ser necesario si, por ejemplo:
-        - hay más recurso X que el que una iniciativa necesita y sobra
-        - una iniciativa se abandona
-        - una iniciativa cambia y ya no califica para una contribución según sus condiciones
-        - un recurso deja de estar disponible
-        - una contribución estaba destinada a algo que ya no existe
-        - no está contemplada una situación determinada
-
-- los recursos no necesitan corresponder con otros sistemas
-    - un recurso puede ser utilizado por varias iniciativas
-    - una iniciativa puede utilizar varios recursos
-    - una delegación puede operar varios recursos
-    - varias delegaciones pueden utilizar el mismo recurso
-    - una persona puede contribuir varios recursos
-    - estas relaciones se establecen mediante referencias y mediante la realidad de cómo se utilizan los recursos
+- si un recurso prestado o similar se encuentra en una situación no contemplada, puede existir un plan de respaldo establecido previamente
+    - si no existe, se consultará a quien lo prestó
+    - si no es posible contactarle durante un período considerable, nos reservaremos el derecho de tomar una decisión razonable sobre él
 
 - la negociación, planteo, aceptación y rechazo de ofertas / contratos de recursos son aspectos separados de este sistema
-    - este sistema registra el resultado relevante de esas decisiones cuando corresponda
+    - este sistema simplemente registra el resultado relevante de esos acuerdos cuando corresponda
