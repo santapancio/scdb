@@ -1,13 +1,14 @@
 detalle: >
   lista de personas que se han involucrado en la historia de SC en algún punto
   acceso limitado
-  sólo para propósitos de moderación
+  sólo para propósitos de moderación. todo otro uso está prohibido
   recolecta apodos conocidos, IDs de steam e IDs de discord, origen y algunas relaciones relevantes, como afiliación a un grupo
-  mantenida por [[encargado-lista]]
+  actualmente mantenida por [[encargado-lista]]
 
 estado: "completado: operando"
 
 etiquetas:
   - "información"
+  - "infraestructura"
 
 sub-iniciativas:
