@@ -8,3 +8,4 @@
 - una iniciativa no necesariamente es una actividad continua
     - algunas simplemente se desarrollan y luego no necesitan operación o dejan de existir como iniciativas
     - una iniciativa puede ser completada aunque ya no se encuentre en desarrollo u operación
+    - etc
