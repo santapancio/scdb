@@ -17,7 +17,7 @@
     - esto incluye crear, modificar, eliminar y reorganizar delegaciones subordinadas y sus recursos de trabajo asignados
     - esta libertad de cada delegación puede ser decidida por una autoridad final superior
 
-- una delegación sin un recurso de trabajo asignado implica que no está siendo llevada a cabo
+- una delegación existente en SCDB pero sin un recurso de trabajo asignado implica que no está siendo llevada a cabo
 
 - las delegaciones no necesariamente son permanentes; algunos procesos o trabajos son temporales
 
