@@ -1,14 +1,15 @@
 detalle: >
   trabajo y conocimiento por parte de Santa
-  comprometido a desempeñar la labor de administrador general de SC [[administrador-general-sc]]
+  comprometido a desempeñar la labor de administrador general de SC [[administrador-general-sc]] por tiempo indefinido
+  incondicional
 
-estado: "condicional"
+estado: "asignado"
 
 propiedad: "no aplica"
 
 control: "Santa"
 
-operacion-asignacion: "[[administrador-general-sc]]"
+operacion-asignacion: "[[administrador-general-sc]])"
 
 etiquetas:
   - "trabajo"
