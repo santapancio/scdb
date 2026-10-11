@@ -19,20 +19,39 @@ trabajo-asignado:
 subdelegaciones:
   - ""
 
-# responsabilidades:
-# Enumera las responsabilidades de esta delegación
+#----------------------------------------------------------------------------------------------------------------------------responsabilidades
+# Responsabilidades de esta delegación
 #
-# especificaciones:
+# responsabilidades:
+#   - "texto en lista ejemplo 1"
+#   - "texto en lista ejemplo 2"
+#----------------------------------------------------------------------------------------------------------------------------especificaciones
 # Instrucciones, métodos, principios y recomendaciones sobre cómo llevar a cabo las responsabilidades
 #
-# detalle:
+# especificaciones:
+#   - "texto en lista ejemplo 1"
+#   - "texto en lista ejemplo 2"
+#----------------------------------------------------------------------------------------------------------------------------detalle
 # Cualquier cosa relevante, literalmente cualquiera
 #
-# trabajo-asignado:
+# detalle: "texto ejemplo"
+#----------------------------------------------------------------------------------------------------------------------------trabajo-asignado
 # Lista recursos de tipo "trabajo" en el sistema de recursos que hayan sido asignados a esta delegación
 # El primer elemento de la lista retiene autoridad final
+# Se suelen [[referenciar]] cosas en este campo
+#
+# trabajo-asignado:
+#   - "texto en lista ejemplo 1, o bien [[referencia-de-ejemplo 1]]"
+#   - "texto en lista ejemplo 2, o bien [[referencia-de-ejemplo 2]]"
+#----------------------------------------------------------------------------------------------------------------------------subdelegaciones
+# Subdelegaciones que pertenecen a esta delegación
+# Cada item debe contener referencia a la subdelegación en cuestión
+# Se suelen [[referenciar]] cosas en este campo
 #
 # subdelegaciones:
-# Enumera las subdelegaciones que pertenecen a esta delegación. Cada item debe contener referencia a la subdelegación en cuestión
-#
+#   - "texto en lista ejemplo 1, o bien [[referencia-de-ejemplo 1]]"
+#   - "texto en lista ejemplo 2, o bien [[referencia-de-ejemplo 2]]"
+#----------------------------------------------------------------------------------------------------------------------------etc
+# Si un campo está vacío, debe dejarse como "nombre-de-campo:" y nada más, como se ve en esta plantilla
+# El resto de la información sobre el funcionamiento de las delegaciones en SCDB se encuentra en su respectiva guía
 # Estos renglones de comentario (que empiezan con "#") no son necesarios, pero recomendamos que queden, para poder guiarse
