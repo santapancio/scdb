@@ -26,7 +26,7 @@ subdelegaciones:
 # detalle: "texto ejemplo"
 #----------------------------------------------------------------------------------------------------------------------------trabajo-asignado
 # Lista recursos de tipo "trabajo" en el sistema de recursos que hayan sido asignados a esta delegación
-# El primer elemento de la lista retiene autoridad final
+# El primer elemento de la lista retiene autoridad final sobre los demás, si bien tiene el mismo poder
 # Se suele [[referenciar]] en este campo
 #
 # trabajo-asignado:
