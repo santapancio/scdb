@@ -27,7 +27,7 @@ subdelegaciones:
 #----------------------------------------------------------------------------------------------------------------------------trabajo-asignado
 # Lista recursos de tipo "trabajo" en el sistema de recursos que hayan sido asignados a esta delegación
 # El primer elemento de la lista retiene autoridad final
-# Se suelen [[referenciar]] cosas en este campo
+# Se suele [[referenciar]] en este campo
 #
 # trabajo-asignado:
 #   - "texto en lista ejemplo 1, o bien [[referencia-de-ejemplo 1]]"
@@ -35,7 +35,7 @@ subdelegaciones:
 #----------------------------------------------------------------------------------------------------------------------------subdelegaciones
 # Subdelegaciones que pertenecen a esta delegación
 # Cada item debe contener referencia a la subdelegación en cuestión
-# Se suelen [[referenciar]] cosas en este campo
+# Se suele [[referenciar]] en este campo
 #
 # subdelegaciones:
 #   - "texto en lista ejemplo 1, o bien [[referencia-de-ejemplo 1]]"
