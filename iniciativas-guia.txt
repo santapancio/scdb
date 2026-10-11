@@ -1,26 +1,14 @@
-- una iniciativa es una actividad que puede ser llevada a cabo por la organización
-    - son meramente un listado de actividades de la organización
-    - contienen pocas funciones administrativas por sí solas
+- una iniciativa es una actividad que puede ser llevada a cabo por la organización. son meramente un listado de actividades de la organización, y contienen pocas funciones administrativas por sí solas
 
-- cada iniciativa puede tener sub-iniciativas, y esas sub-iniciativas pueden tener las suyas también, y así sucesivamente con total libertad (anidado)
-    - la relación entre una iniciativa y sus sub-iniciativas representa una relación de inclusión o composición, no una relación de autoridad
-    - una sub-iniciativa sigue siendo una iniciativa exactamente igual a las demás en lo que la base de datos incumbe
+- cada iniciativa puede tener sub-iniciativas, formando una estructura anidada
+    - la relación entre una iniciativa y sus sub-iniciativas representa una relación de inclusión o composición, no una relación de autoridad como en el sistema de delegaciones
 
 - la autoridad sobre este sistema recae sobre el sistema de delegaciones, que decide quién tiene la autoridad para administrar tanto el sistema en sí como las iniciativas que contiene
 
-- las iniciativas no están estrictamente ligadas a delegaciones
-    - una iniciativa puede existir sin que haya una delegación dedicada a ella
-    - una delegación puede administrar una o más iniciativas
-    - una iniciativa puede involucrar a varias delegaciones
-
 - una iniciativa no necesariamente es una actividad continua
-    - algunas existen para ser desarrolladas y operadas indefinidamente
-    - algunas simplemente se realizan y luego terminan
-    - algunas producen algo que queda terminado y no necesita operación posterior
-    - algunas son temporales y dejan de existir como actividad una vez alcanzado su objetivo
+    - algunas simplemente se desarrollan y luego no necesitan operación o dejan de existir como iniciativas
     - una iniciativa puede ser completada aunque ya no se encuentre en desarrollo u operación
 
 - toda iniciativa tiene un estado
     - una iniciativa puede ser abandonada sin haber sido completada
     - una iniciativa puede pausarse y retomarse posteriormente
-    - sus propiedades, alcance, estado, composición o forma de operación pueden cambiar
