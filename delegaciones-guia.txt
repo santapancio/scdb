@@ -11,7 +11,7 @@
 - en este sistema, se supone que siempre haya alguien con autoridad final en todo momento
 
 - cada delegación puede tener uno o más recursos de trabajo (que figuran en el sistema de recursos) asignados. sin embargo, sólo puede haber uno asignado como primario
-    - todos los recursos de trabajo asignados tienen autoridad final sobre la delegación, pero además el primario tiene autoridad final sobre los secundarios
+    - la PERSONA cuyo recurso de trabajo es asignado a una delegación como primaria posee tanto autoridad final sobre la delegación como sobre todas las demás personas cuyo recurso de trabajo está asignado a ella
 
 - un recurso de trabajo puede estar asignado a varias delegaciones
     - si una persona está en varias delegaciones y se contiene a sí mismo en ellas, las responsabilidades de todas formas deben mantenerse separadas al actuar
