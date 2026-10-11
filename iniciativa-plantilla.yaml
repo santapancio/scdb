@@ -28,7 +28,7 @@ sub-iniciativas:
 # estado: "texto ejemplo"
 #----------------------------------------------------------------------------------------------------------------------------etiquetas
 # Describen la naturaleza de la iniciativa. No necesitan muchísima precisión, son para hacer más fácil la administración
-# FORMATO ESTRICTO - sólo puede tener una (o más) etiquetas:
+# FORMATO ESTRICTO - sólo puede tener una (o más) etiquetas de las siguientes:
 # "software"
 # "producto físico" (incluyendo hardware informático)
 # "servicio"
