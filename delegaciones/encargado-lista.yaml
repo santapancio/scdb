@@ -13,7 +13,7 @@ detalle: >
     - #adm en [[servidor-discord]]
     - acceso a la lista en el repo privado de github
 
-personas-asignadas:
+trabajo-asignado:
   - "Arqui_Alpaka"
 
 subdelegaciones:
@@ -28,9 +28,9 @@ subdelegaciones:
 # detalle:
 # Cualquier cosa relevante, literalmente cualquiera
 #
-# personas-asignadas:
-# Enumera a las personas asignadas a esta delegación
-# La primera persona de esta lista es la persona primaria
+# trabajo-asignado:
+# Lista recursos de tipo "trabajo" en el sistema de recursos que hayan sido asignados a esta delegación
+# El primer elemento de la lista retiene autoridad final
 #
 # subdelegaciones:
 # Enumera las subdelegaciones que pertenecen a esta delegación. Cada item debe contener referencia a la subdelegación en cuestión
