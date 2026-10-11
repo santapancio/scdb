@@ -16,12 +16,6 @@
     - esto incluye crear, modificar, eliminar y reorganizar delegaciones subordinadas y sus recursos de trabajo asignados
     - esta libertad de cada delegación puede ser decidida por una autoridad final superior
 
-- las delegaciones no necesitan corresponder con otros sistemas
-    - una delegación puede administrar varias iniciativas
-    - una iniciativa puede involucrar varias delegaciones
-    - varias delegaciones pueden utilizar el mismo recurso
-    - estas relaciones se registran mediante referencias en SCDB
-
 - una delegación sin un recurso de trabajo asignado implica que no está siendo llevada a cabo
 
 - las delegaciones no necesariamente son permanentes; algunos procesos o trabajos son temporales
