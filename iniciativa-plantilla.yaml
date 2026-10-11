@@ -25,9 +25,7 @@ sub-iniciativas:
 # "completado" (para cosas que se hacen una vez, por ejemplo)
 # "no aplica"
 #
-# estado:
-#   - "texto en lista ejemplo 1"
-#   - "texto en lista ejemplo 2"
+# estado: "texto ejemplo"
 #----------------------------------------------------------------------------------------------------------------------------etiquetas
 # Describen la naturaleza de la iniciativa. No necesitan muchísima precisión, son para hacer más fácil la administración
 # FORMATO ESTRICTO - sólo puede tener una (o más) etiquetas:
