@@ -1,3 +1,5 @@
+PRUEBA AAAAAAAA
+
 - ser otorgado una delegación significa ser delegado a llevar a cabo responsabilidades y poseer el derecho a la autoridad necesaria para hacerlo
 
 - cualquier delegación puede tener subdelegaciones, formando una estructura anidada
