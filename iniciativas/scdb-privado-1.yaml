@@ -1,0 +1,12 @@
+detalle: >
+  repo privado en github
+  por ahora contiene sólo la lista, mantenida por [[encargado-lista]], quien tiene acceso
+  actualmente bajo [[administrador-general-sc]]
+
+estado: "completado: operando"
+
+etiquetas:
+  - "información"
+  - "infraestructura"
+
+sub-iniciativas:
