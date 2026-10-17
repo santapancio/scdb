@@ -12,3 +12,11 @@ etiquetas:
   - "infraestructura"
 
 sub-iniciativas:
+  - "[[scdb-recursos]]"
+  - "[[scdb-delegaciones]]"
+  - "[[scdb-iniciativas]]"
+  - "[[scdb-personas-y-grupos]]"
+  - "[[scdb-privilegios-permisos]]"
+  - "[[scdb-historial]]"
+  - "[[scdb-conocimiento]]"
+  - "[[scdb-acuerdos-contratos]]"
