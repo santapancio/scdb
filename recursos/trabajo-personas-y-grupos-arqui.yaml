@@ -1,0 +1,15 @@
+detalle: >
+  trabajo de Arqui_Alpaka
+  se compromete a poblar, mantener y actualizar los datos del subsistema de personas y grupos de SCDB
+  condición aceptada: integrar el diseño del subsistema en SCDB
+
+estado: "asignado"
+
+propiedad: "no aplica"
+
+control: "Arqui_Alpaka"
+
+operacion-asignacion: "[[encargado-personas-y-grupos]]"
+
+etiquetas:
+  - "trabajo"
