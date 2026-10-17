@@ -1,0 +1,11 @@
+detalle: >
+  subsistema de delegaciones de SCDB
+  registra responsabilidades, autoridad y subdelegaciones
+
+estado: "completado: operando"
+
+etiquetas:
+  - "información"
+  - "infraestructura"
+
+sub-iniciativas:
