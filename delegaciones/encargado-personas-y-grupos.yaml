@@ -7,6 +7,7 @@ especificaciones:
 
 detalle: >
   responsable del subsistema de personas y grupos
+  subdelegación de [[administrador-general-sc]]
   [[scdb-personas-privado]]
   acceso al repositorio privado scdb-personas-privado
 
