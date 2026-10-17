@@ -1,10 +1,10 @@
 ### Fundamentos de la base de datos
 - el objetivo de SCDB es formalizar y organizar las operaciones de SC, y permitir la correcta coordinación de la organización al escalar sus actividades
-- está compuesta por tres sistemas:
+- está compuesta por tres subsistemas:
     - recursos
     - delegaciones
     - iniciativas
-- existen otros sistemas ya diseñados, pero no están implementados aún:
+- existen otros subsistemas ya diseñados, pero no están implementados aún:
     - personas y grupos
     - privilegios / permisos
     - historial
