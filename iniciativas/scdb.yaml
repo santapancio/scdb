@@ -1,6 +1,6 @@
 detalle: >
   base de datos de SC
-  actualmente en github
+  actualmente en github mediante el repositorio público [[scdb-publico]]
   pensada para formalizar y facilitar la administración de la organización
   actualmente bajo [[administrador-general-sc]] únicamente
   dividida en subsistemas
@@ -12,6 +12,7 @@ etiquetas:
   - "infraestructura"
 
 sub-iniciativas:
+  - "[[scdb-publico]]"
   - "[[scdb-recursos]]"
   - "[[scdb-delegaciones]]"
   - "[[scdb-iniciativas]]"
@@ -20,4 +21,3 @@ sub-iniciativas:
   - "[[scdb-historial]]"
   - "[[scdb-conocimiento]]"
   - "[[scdb-acuerdos-contratos]]"
-  - "[[scdb-personas-privado]]"
