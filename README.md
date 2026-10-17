@@ -10,7 +10,7 @@
     - historial
     - conocimiento
     - acuerdos / contratos
-- la separación de sistemas es para facilitar la prolijidad, modularidad y modificación sobre la marcha
+- la separación de subsistemas es para facilitar la prolijidad, modularidad y modificación sobre la marcha
 - YAML como formato para todos los elementos porque está pensado para ser fácilmente legible y editable por humanos y también por máquinas en simultáneo
 - git porque nos da hosting, acceso colaborativo, control de versiones y una API gratis, entre otras cosas
 - ID de la base de datos = nombre de archivo = nombre descriptivo. un identificador, tres propósitos. reduce la complejidad
