@@ -1,0 +1,11 @@
+detalle: >
+  subsistema de recursos de SCDB
+  registra recursos disponibles, su propiedad, control y asignación
+
+estado: "completado: operando"
+
+etiquetas:
+  - "información"
+  - "infraestructura"
+
+sub-iniciativas:
