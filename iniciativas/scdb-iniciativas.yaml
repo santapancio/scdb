@@ -1,0 +1,11 @@
+detalle: >
+  subsistema de iniciativas de SCDB
+  registra iniciativas, su estado y sus relaciones
+
+estado: "completado: operando"
+
+etiquetas:
+  - "información"
+  - "infraestructura"
+
+sub-iniciativas:
