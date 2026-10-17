@@ -1,0 +1,13 @@
+detalle: >
+  subsistema de personas y grupos de SCDB
+  su implementación está en desarrollo
+  repositorio dedicado: [[scdb-personas-privado]]
+
+estado: "en desarrollo"
+
+etiquetas:
+  - "información"
+  - "infraestructura"
+
+sub-iniciativas:
+  - "[[scdb-personas-privado]]"
