@@ -1,0 +1,16 @@
+responsabilidades:
+  - "poblar los datos del subsistema de personas y grupos de SCDB"
+  - "mantener y actualizar esos datos a lo largo del tiempo"
+
+especificaciones:
+  - "respetar la privacidad de las personas y grupos y limitar los datos a los propósitos de SC"
+
+detalle: >
+  responsable del subsistema de personas y grupos
+  [[scdb-personas-privado]]
+  acceso al repositorio privado scdb-personas-privado
+
+trabajo-asignado:
+  - "[[trabajo-personas-y-grupos-arqui]]"
+
+subdelegaciones:
