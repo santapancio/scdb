@@ -55,4 +55,7 @@
         - las referencias deben apuntar a elementos existentes
         - cuando se cambia un ID, deben actualizarse las referencias que apuntan al ID anterior
         - las referencias deberían ser bidireccionales
-- el anidado de los elementos no está ligado a u obligado a seguir el de los directorios de SCDB, y puede hacerse como se desee
+- la estructura de directorios refleja la jerarquía lógica de iniciativas y delegaciones para facilitar la navegación
+    - las iniciativas y delegaciones subordinadas se guardan dentro de la carpeta de su elemento padre
+    - los recursos se agrupan en carpetas por categoría
+    - las rutas pueden cambiar sin alterar los IDs ni las referencias

@@ -1,0 +1,14 @@
+detalle: >
+  conjunto de campañas de Barotrauma de SC
+  incluye la campaña seria de estilo militar y tryhard [[campana-barotrauma-seria]] y la campaña semanal de variedad [[campana-barotrauma-variedad]]
+  la campaña de variedad complementa a la principal con una actividad más relajada y variada
+
+estado: "en desarrollo"
+
+etiquetas:
+  - "actividad"
+  - "contenido"
+
+sub-iniciativas:
+  - "[[campana-barotrauma-seria]]"
+  - "[[campana-barotrauma-variedad]]"
