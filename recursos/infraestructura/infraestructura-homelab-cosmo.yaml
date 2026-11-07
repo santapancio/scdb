@@ -1,0 +1,30 @@
+detalle: >
+  acceso y uso de la VM y recursos del servidor homelab de Cosmo para hostear servicios y potencialmente juegos
+  también incluye acceso a su laptop, conectada a la misma LAN, para los mismos fines
+  Cosmo se compromete a mantener el servidor, la laptop y sus servicios funcionando
+  duración indefinida
+  el servidor utiliza Proxmox y actualmente tiene una sola VM compartida por SC y Cosmo
+  la separación entre ambas partes se realiza mediante directorios, no mediante VMs independientes
+  el hardware actual (i3) no permite mantener más de una VM
+  SC dispone de un usuario separado dentro de la VM, con privilegios root necesarios para administrar su parte
+  el acceso al servidor está limitado por ahora a usuarios de confianza (Santa y Arqui), ya que todavía contiene datos personales de Cosmo y no existe una VM separada
+  el acceso remoto a la VM se realiza mediante SSH
+  cualquier cambio mayor debe pasar por Cosmo
+
+estado: "condicional"
+
+propiedad: "Cosmo"
+
+control: >
+  Cosmo retiene el control físico del servidor, ubicado en su casa
+  el servidor y la VM son compartidos; el acceso al servidor está limitado a Santa y Arqui mientras no exista una VM separada
+
+operacion-asignacion: >
+  uso por SC para hostear servicios y potencialmente juegos
+  Cosmo mantiene el servidor, la laptop y sus servicios funcionando
+  los cambios mayores requieren pasar por Cosmo
+
+etiquetas:
+  - "infraestructura (espacio de almacenamiento digital, capacidad de cómputo, de red van acá)"
+  - "servicio"
+  - "acceso"
