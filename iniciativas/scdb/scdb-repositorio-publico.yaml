@@ -1,0 +1,11 @@
+detalle: >
+  repositorio público de SCDB en GitHub
+  contiene la implementación pública de la base de datos [[scdb]]
+
+estado: "completado: operando"
+
+etiquetas:
+  - "información"
+  - "infraestructura"
+
+sub-iniciativas:
