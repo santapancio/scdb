@@ -19,12 +19,9 @@ control: >
   Cosmo retiene el control físico del servidor, ubicado en su casa
   el servidor y la VM son compartidos; el acceso al servidor está limitado a Santa y Arqui mientras no exista una VM separada
 
-operacion-asignacion: >
-  uso por SC para hostear servicios y potencialmente juegos
-  Cosmo mantiene el servidor, la laptop y sus servicios funcionando
-  los cambios mayores requieren pasar por Cosmo
+operacion-asignacion: ""
 
 etiquetas:
-  - "infraestructura (espacio de almacenamiento digital, capacidad de cómputo, de red van acá)"
+  - "infraestructura"
   - "servicio"
   - "acceso"
