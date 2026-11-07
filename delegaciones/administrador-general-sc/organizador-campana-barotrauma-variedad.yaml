@@ -1,5 +1,5 @@
 responsabilidades:
-  - "organizar, hostear y administrar la campaña semanal de variedad de Barotrauma [[campana-barotrauma-variedad]]"
+  - "organizar, hostear y administrar la campaña semanal de variedad de Barotrauma [[campana-inmersion-absoluta]]"
   - "mantener la continuidad y coordinación de la campaña durante el período acordado"
   - "reclutar al servidor de Discord de SC a participantes que demuestren ser buena gente y manejarse civilizadamente"
 
@@ -10,7 +10,7 @@ especificaciones:
   - "libertad de anunciar la campaña en otras comunidades y de hacerla pública en el explorador de servidores"
 
 detalle: >
-  delegado encargado de [[campana-barotrauma-variedad]]
+  delegado encargado de [[campana-inmersion-absoluta]]
   subdelegación directa de [[administrador-general-sc]]
   campaña semanal de variedad
   delegación temporal para el período acordado
@@ -18,6 +18,6 @@ detalle: >
   - rol "P" en el [[servidor-discord]]
 
 trabajo-asignado:
-  - "[[trabajo-organizador-campana-barotrauma-variedad-trusty]]"
+  - "[[trabajo-organizador-campana-inmersion-absoluta-trusty]]"
 
 subdelegaciones:
