@@ -19,7 +19,7 @@ control: >
   Cosmo retiene el control físico del servidor, ubicado en su casa
   el servidor y la VM son compartidos; el acceso al servidor está limitado a Santa y Arqui mientras no exista una VM separada
 
-operacion-asignacion: ""
+operacion-asignacion: "[[servicio-peergos]]"
 
 etiquetas:
   - "infraestructura"

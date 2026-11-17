@@ -13,7 +13,7 @@ detalle: >
   la responsabilidad prima
   engloba las responsabilidades de administrar SC en su totalidad
   todas las otras delegaciones nacen de ésta
-  administra las iniciativas [[scdb]], [[grupo-steam]], [[servidor-discord]], [[wiki-rentry]] y [[campanas-barotrauma]]
+  administra las iniciativas [[scdb]], [[grupo-steam]], [[servidor-discord]], [[wiki-rentry]], [[campanas-barotrauma]] y [[servicio-peergos]]
 
 trabajo-asignado:
   - "[[trabajo-admin-santa]]"
@@ -22,3 +22,4 @@ subdelegaciones:
   - "[[moderador-discord]]"
   - "[[encargado-personas-y-grupos]]"
   - "[[organizador-campana-inmersion-absoluta]]"
+  - "[[mantenedor-peergos]]"

@@ -1,0 +1,18 @@
+responsabilidades:
+  - "poner en funcionamiento una instancia de Peergos para SC"
+  - "mantener la instancia de Peergos funcionando"
+  - "administrar técnicamente el servicio dentro del ámbito delegado"
+
+especificaciones:
+  - "la instancia de Peergos es administrada por SC"
+  - "por ahora el objetivo es únicamente conseguir que el servicio funcione; las condiciones para ofrecerlo posteriormente todavía no están establecidas"
+  - "utilizar el servidor prestado por Cosmo [[infraestructura-homelab-cosmo]] y el disco de 8 TB prestado por Cosmo [[disco-peergos-cosmo]]"
+
+detalle: >
+  responsable de la puesta en funcionamiento y mantenimiento de [[servicio-peergos]]
+  subdelegación de [[administrador-general-sc]]
+
+trabajo-asignado:
+  - "[[trabajo-mantenedor-peergos-cosmo]]"
+
+subdelegaciones:

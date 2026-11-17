@@ -1,0 +1,15 @@
+detalle: >
+  trabajo de Cosmo para poner en funcionamiento y mantener [[servicio-peergos]]
+  comprometido por tiempo indefinido
+  asignado a la delegación [[mantenedor-peergos]]
+
+estado: "asignado"
+
+propiedad: "no aplica"
+
+control: "Cosmo"
+
+operacion-asignacion: "[[mantenedor-peergos]]"
+
+etiquetas:
+  - "trabajo"

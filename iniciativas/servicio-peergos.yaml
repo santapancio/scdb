@@ -1,0 +1,16 @@
+detalle: >
+  puesta en funcionamiento y mantenimiento de una instancia de Peergos para SC
+  actualmente bajo [[administrador-general-sc]]
+  por ahora el objetivo es que el servicio funcione, para que SC pueda evaluar posteriormente cómo ofrecerlo
+  la instancia será administrada por SC
+  el servicio se aloja en el servidor prestado por Cosmo [[infraestructura-homelab-cosmo]]
+  utiliza un disco de 8 TB prestado por Cosmo [[disco-peergos-cosmo]]
+  el trabajo de puesta en funcionamiento y mantenimiento está delegado a [[mantenedor-peergos]]
+
+estado: "en desarrollo"
+
+etiquetas:
+  - "servicio"
+  - "infraestructura"
+
+sub-iniciativas:

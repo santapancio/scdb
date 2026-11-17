@@ -1,0 +1,15 @@
+detalle: >
+  disco duro de 8 TB ofrecido en préstamo por Cosmo para uso del servidor de [[servicio-peergos]]
+  préstamo por tiempo indefinido
+  el disco continúa siendo propiedad de Cosmo
+
+estado: "asignado"
+
+propiedad: "Cosmo"
+
+control: "Cosmo"
+
+operacion-asignacion: "[[servicio-peergos]]"
+
+etiquetas:
+  - "producto físico"
