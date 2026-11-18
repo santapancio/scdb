@@ -1,0 +1,16 @@
+detalle: >
+  trabajo de Arqui_Alpaka
+  comprometido el 17/11/26 por tiempo indefinido
+  usar /bump en el bot de Disboard cada 2 horas, mientras sea razonable hacerlo
+  asignado a la delegación [[encargado-bump-discord]]
+
+estado: "asignado"
+
+propiedad: "no aplica"
+
+control: "Arqui_Alpaka"
+
+operacion-asignacion: "[[encargado-bump-discord]]"
+
+etiquetas:
+  - "trabajo"
