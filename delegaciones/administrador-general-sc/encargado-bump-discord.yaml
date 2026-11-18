@@ -1,12 +1,11 @@
 responsabilidades:
-  - "mantener la visibilidad de [[servidor-discord]] mediante bumps en Disboard"
+  - "realizar los bumps de [[servidor-discord]] en Disboard"
 
 especificaciones:
-  - "usar /bump en el bot de Disboard cada 2 horas, respetando su cooldown"
+  - "usar /bump en el bot de Disboard cada 2 horas, porque ese es su cooldown"
   - "el compromiso se mantiene mientras sea razonable y posible cumplirlo; no requiere vigilancia ni disponibilidad constante"
 
 detalle: >
-  encargado de realizar los bumps de [[servidor-discord]] en Disboard
   subdelegación de [[administrador-general-sc]]
 
 trabajo-asignado:
